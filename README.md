@@ -66,7 +66,13 @@ flutter run
 
 Alternatively, you can run it on an emulator. 🎮
 
+---
 
+Screenshots 📸
+--------------
+
+<img src="https://github.com/user-attachments/assets/037479c5-93aa-4691-8e12-917895b2c13a" width="300" /> 
+<img src="https://github.com/user-attachments/assets/800ae31a-fa25-4d24-8aee-c50a7a472339" width="300" />
 
 ---
 
