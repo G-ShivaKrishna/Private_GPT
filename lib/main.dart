@@ -91,7 +91,7 @@ class _ChatScreenState extends State<ChatScreen> {
   bool isDarkMode = false;
 
   // Replace with your Gemini API key
-  final String apiKey = 'AIzaSyDYewJHzhyk0UvevhBqOES13Sc-p5WUG6k'; // TODO: Replace with your key
+  final String apiKey = 'Your_api_key'; // TODO: Replace with your key
   final String apiUrl = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent';
 
   Future<void> sendMessage(String text) async {
